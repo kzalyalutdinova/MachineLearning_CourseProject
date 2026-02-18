@@ -1,0 +1,3 @@
+[submodule "modification4/improved-faster-rcnn"]
+	path = modification4/improved-faster-rcnn
+	url = https://github.com/oaleksander/improved-faster-rcnn.git
