@@ -168,4 +168,13 @@ $$
 
 Ссылка на Colab с реализованной модификацией: https://colab.research.google.com/drive/1a7wbUbS7Ylz5H3t6sR4_7lqh2K44bX_Y?usp=sharing
 
+## Запуск кода
+Реализованные модификации могут быть запущены по ссылкам в Google Colab.
+
+Локально загрузить описанные модификации можно с помощью команды:
+
+```
+git clone https://github.com/kzalyalutdinova/MachineLearning_CourseProject.git
+```
+
 
