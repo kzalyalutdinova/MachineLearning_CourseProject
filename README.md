@@ -5,6 +5,7 @@
 
 ## Модификация 1
 
+Ссылка на Colab с реализованной модификацией: https://colab.research.google.com/drive/1UGn-vORpz6G5fag3izhvazVXNZposWdX?usp=sharing
 
 ## Модификация 2
 Ссылка на статью: https://www.nature.com/articles/s41598-025-12740-x
