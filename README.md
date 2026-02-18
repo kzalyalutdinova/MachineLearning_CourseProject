@@ -62,9 +62,10 @@ $$y(p_0) = \sum_{p_n \in R} w(p_n) \cdot x(p_0 + p_n + \Delta p_n)$$
 
 Гибридный модуль внимания последовательно применяет CAM и SAM для уточнения карт признаков.
 
+Ссылка на Colab с реализованной модификацией: [https://colab.research.google.com/drive/1dzb5tlvOx2Rn7kPUgjpHZH0Tcf4iCnlV?usp=sharing](https://colab.research.google.com/drive/1UGn-vORpz6G5fag3izhvazVXNZposWdX#scrollTo=zgTb1EnIQ_mb)
 
 ## Модификация 2
-Ссылка на статью: [Leng Y., Liu J. Improved faster R-CNN for steel surface defect detection in industrial quality control //Scientific Reports. – 2025. – Т. 15. – №. 1. – С. 30093.] (https://www.nature.com/articles/s41598-025-12740-x)
+Ссылка на статью: [Leng Y., Liu J. Improved faster R-CNN for steel surface defect detection in industrial quality control //Scientific Reports. – 2025. – Т. 15. – №. 1. – С. 30093.](https://www.nature.com/articles/s41598-025-12740-x)
 
 Авторами предложено два ключевых изменения в базовую архитектуру Faster R-CNN для улучшения способности модели к извлечению тонких признаков и фокусировки на областях дефектов.
 
