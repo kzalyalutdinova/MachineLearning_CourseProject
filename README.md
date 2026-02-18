@@ -18,14 +18,12 @@
 
 
 $$
-F_{high} \in \mathbb{R}^{C_{high} \times H_{high} \times W_{high}}      (1)
+F_{high} \in \mathbb{R}^{C_{high} \times H_{high} \times W_{high}} \qquad (1)
 $$
 
-
 $$
-F_{low} \in \mathbb{R}^{C_{low} \times H_{low} \times W_{low}}         (2)
+F_{low} \in \mathbb{R}^{C_{low} \times H_{low} \times W_{low}} \qquad (2)
 $$
-
 
 
 ## Модификация 3
