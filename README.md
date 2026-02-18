@@ -210,4 +210,5 @@ $$
 git clone https://github.com/kzalyalutdinova/MachineLearning_CourseProject.git
 ```
 
+Чекпоинты модификаций с лучшими весами находятся в папке checkpoints
 
