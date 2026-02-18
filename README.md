@@ -85,12 +85,15 @@ $$
 - X⊙...: Поэлементное умножение исходной карты признаков X на карту весов внимания.
 - F(X): Итоговая уточненная карта признаков, передаваемая на вход RPN.
 
+Ссылка на Colab с реализованной модификацией: https://colab.research.google.com/drive/1dzb5tlvOx2Rn7kPUgjpHZH0Tcf4iCnlV?usp=sharing
+
 ## Модификация 3
 Данная модификация представляет собой модификацию 2 с деформируемыми свертаками из модификации 1, таким образом она содержит:
 - Деформируемые свертки
 - Feature Fusion Module
 - Lightweight Channel Attention Mechanism
 
+Ссылка на Colab с реализованной модификацией: https://colab.research.google.com/drive/1a7HZRN8OOq29_WGWroqxslUpf-yRpwk6?usp=sharing
 
 ## Модификация 4
 Авторы:
