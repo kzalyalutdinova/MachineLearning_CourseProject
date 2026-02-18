@@ -13,4 +13,4 @@
  
  
 где C, H и W обозначают количество каналов, высоту и ширину карты признаков соответственно.
-<img width="357" height="59" alt="image" src="https://github.com/user-attachments/assets/b56ae79f-8d8e-4a48-bccc-a403601f8f65" />
+<img width="250" height="35" alt="image" src="https://github.com/user-attachments/assets/b56ae79f-8d8e-4a48-bccc-a403601f8f65" />
