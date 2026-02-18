@@ -1,0 +1,12 @@
+torch
+torchvision
+torchmetrics
+
+kagglehub
+gdown
+pyyaml
+numpy
+tqdm
+
+Pillow
+matplotlib
