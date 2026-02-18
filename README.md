@@ -96,7 +96,21 @@ $$
 Ссылка на Colab с реализованной модификацией: https://colab.research.google.com/drive/1a7HZRN8OOq29_WGWroqxslUpf-yRpwk6?usp=sharing
 
 ## Модификация 4
+
+**Faster RCNN VGG16 + DCNv1 + FPN**
+
+**Источник:** Object Detector for Autonomous Vehicles Based on Improved Faster-RCNN URL: https://github.com/Ziruiwang409/improved-faster-rcnn
+
+**Основа:** Faster RCNN, бэкбон: VGG16
+
+**Улучшения:**
+
+1. Деформируемые сверточные сети (DCNv1). Статья: Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li. Deformable Convolutional Networks URL: https://arxiv.org/abs/1703.06211
+2. Сеть пирамидальных признаков (FPN). Статья: Tsung-Yi Lin, Piotr Dollár, Ross Girshick. Feature Pyramid Networks for Object Detection. URL: https://arxiv.org/abs/1612.03144
+
+Ссылка на Colab с реализованной модификацией: https://colab.research.google.com/drive/1a7wbUbS7Ylz5H3t6sR4_7lqh2K44bX_Y?usp=sharing
+
 Авторы:
 1. Залялутдинова Карина, 312496
 2. Корнюшенков Роман, 339600
-3. Алексанр Медведев, № ИСУ
+3. Алексанр Медведев, 286511
